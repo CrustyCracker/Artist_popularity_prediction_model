@@ -1,0 +1,6 @@
+fastapi
+matplotlib
+pickle
+pandas
+uvicorn
+pmdarima
